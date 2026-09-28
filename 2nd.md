@@ -61,7 +61,7 @@ Le rythme privilégie des démonstrations courtes, de la pratique guidée, puis 
 
 ---
 
-## Bloc 4 — API Quest Engine avec authentification basique (semaines 17 à 24, 24 h)
+## Bloc 4 — API Quest Engine avec authentification basique (environ 24 h)
 
 **Objectif :** développer progressivement une API REST Python persistante et documentée, en réutilisant UML, OOP, MVC, Docker, PostgreSQL et des requêtes SQL simples.
 
@@ -78,7 +78,7 @@ Le rythme privilégie des démonstrations courtes, de la pratique guidée, puis 
 
 ---
 
-## Bloc 5 — Passage à C# et projet Raylib orienté objet (semaines 25 à 30, 18 h)
+## Bloc 5 — Passage à C# et projet Raylib orienté objet (environ  18 h)
 
 **Objectif :** transférer les principes déjà acquis vers C# à travers un mini-jeu Raylib volontairement limité : par exemple **« Arena de quêtes »**, où un joueur se déplace, récupère des objectifs et évite des ennemis.
 
